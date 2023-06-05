@@ -1,5 +1,0 @@
-pip install opencv-python
-import cv2 as cv
-img=cv.imread("dog.jpg")
-cv.imshow("output",img)
-cv.waitkey(0)
